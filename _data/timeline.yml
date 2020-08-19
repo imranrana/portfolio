@@ -17,45 +17,40 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Université Clermont Auvergne
+  title-url: https://www.uca.fr/
+  date: 2020 - Ongoing
+  subtitle: PhD in Computer Science
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+- title: Khulna University of Engineering & Technology 
+  title-url: http://www.kuet.ac.bd/
+  date: 2016 - 2019
+  subtitle: Master of Science (M. Sc.) in Computer Science and Engineering 
+  timeline-side: left
+
+- title: Khulna University of Engineering & Technology
+  title-url: http://www.kuet.ac.bd/
+  date: 2009 - 2013
+  subtitle: Bachelor of Science (B. Sc.) in Computer Science and Engineering 
+  timeline-side: left
+
+- title: Khulna University of Engineering & Technology
+  title-url: http://www.kuet.ac.bd/
+  date: 2014 - Present
+  subtitle: Faculty Member, Department of CSE
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
+- title: Samsung R&D Institute Bangladesh
+  title-url: https://research.samsung.com/srbd
+  date: 2013 - 2014
+  subtitle: Software Engineer, Android System Team
+  timeline-side: right
+  
+- title: Khulna University of Engineering & Technology
+  title-url: http://www.kuet.ac.bd/cnap/
+  date: 2015 - Present
+  subtitle: Cisco Instructoe
+  timeline-side: right
+ 
+  
