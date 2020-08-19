@@ -13,14 +13,8 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
-  tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+- name: Optimization of University Course Scheduling Problem using Particle Swarm Optimization with Selective Search
+  descr: "Sk. Imran Hossain, M. A. H. Akhand, M. I. R. Shuvo, N. Siddique and H. Adeli, “Optimization of University Course Scheduling Problem using Particle Swarm Optimization with Selective Search,” Expert Systems With Applications, vol.127, pp.9-24, 2019. https://doi.org/10.1016/J.ESWA.2019.02.026 (IF:3.768)"
 
 - name: project Y
   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
