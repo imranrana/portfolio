@@ -16,12 +16,29 @@
 - name: Optimization of University Course Scheduling Problem using Particle Swarm Optimization with Selective Search
   descr: "Sk. Imran Hossain, M. A. H. Akhand, M. I. R. Shuvo, N. Siddique and H. Adeli, “Optimization of University Course Scheduling Problem using Particle Swarm Optimization with Selective Search,” Expert Systems With Applications, vol.127, pp.9-24, 2019. https://doi.org/10.1016/J.ESWA.2019.02.026 (IF:3.768)"
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
-  tags:
-    - tag: Python
-    - tag: Django
+- name: A Robust System for Noisy Image Classification Combining Denoising Autoencoder and Convolutional Neural Network
+  descr: "Sudipta Singha Roy, Sk. Imran Hossain, M. A. H. Akhand and K. Murase, “A Robust System for Noisy Image Classification Combining Denoising Autoencoder and Convolutional Neural Network,” International Journal of Advanced Computer Science and Applications (IJACSA), vol. 9, no. 1, pp.224-235, 2017. https://doi.org/10.14569/IJACSA.2018.090131"
+  
+- name: A Comparative Study of Prominent Particle Swarm Optimization Based Methods to Solve Traveling Salesman Problem
+  descr: "M. A. H. Akhand, Sk. Imran Hossain and Shahina Akter “A Comparative Study of Prominent Particle Swarm Optimization Based Methods to Solve Traveling Salesman Problem,” International Journal of Swarm Intelligence and Evolutionary Computation (IJSIEC) , vol. 5, no.3, paper id 139 (10 pages), 2016. https://doi.org/10.4172/2090-4908.1000139"
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Sequence Modeling for Intelligent Typing Assistant with Bangla and English Keyboard
+  descr: "Shuvendu Roy, Sk. Imran Hossain, M. A. H. Akhand and N. Siddique, “Sequence Modeling for Intelligent Typing Assistant with Bangla and English Keyboard,” in Proc. of International Conference on Innovation in Engineering and Technology (ICIET) 2018, Dhaka, Bangladesh, December 27 – 28, 2018."
+
+- name: ResVMAC: A Novel Medium Access Control Protocol for Vehicular Ad hoc Networks
+  descr: "Md. Kowsar Hossain, Suprakash Datta, Sk. Imran Hossain, Jeff Edmonds, “ResVMAC: A Novel Medium Access Control Protocol for Vehicular Ad hoc Networks,” Procedia Computer Science, vol.109, pp.432-439, 2017. https://doi.org/10.1016/j.procs.2017.05.413"
+
+- name: Restriction Site Placement in Virus Genomes using Particle Swarm Optimization
+  descr: "M. A. H. Akhand, Sk. Imran Hossain, Md. Fisol Habib and Kazuyuki Murase, “Restriction Site Placement in Virus Genomes using Particle Swarm Optimization,” International Conference on Medical Engineering, Health Informatics and Technology (MediTec), Dhaka, Bangladesh, December 17-18, 2016."
+
+- name: A Hybrid Approach to Plan Itinerary for Tourists
+  descr: "Md. Abdul Awal, Jakaria Rabbi, Sk. Imran Hossain, M.M.A. Hashem, “A Hybrid Approach to Plan Itinerary for Tourists,” 5th International Conference on Informatics, Electronics & Vision (ICIEV), Dhaka, Bangladesh, May 13-14, 2016."
+
+- name: Using Linear Regression to Forecast Future Trends in Crime of Bangladesh
+  descr: "Md. Abdul Awal, Jakaria Rabbi, Sk. Imran Hossain, M.M.A. Hashem, “Using Linear Regression to Forecast Future Trends in Crime of Bangladesh,” 5th International Conference on Informatics, Electronics & Vision (ICIEV), Dhaka, Bangladesh, May 13-14, 2016."
+
+- name: Speech Enhancement Using Modified Magnitude and Phase Spectra
+  descr: "Sk. Imran Hossain, Md. Fahim Hossain Chowdhury, Md. Faijul Amin, Kazuyuki Murase “Speech Enhancement Using Modified Magnitude and Phase Spectra,” International Conference on Electrical Information and Communication Technology (EICT), pp.1-4 Khulna, Bangladesh, February 13-15, 2014."
+
+- name: Implementation of an Efficient Bangla Soft Keyboard with Text-To-Image Replacement Support
+  descr: "Sk. Imran Hossain, Fahim Hossain Chowdhury, Md. Amer Muntaq Ganim, Dr. Muhammad Sheikh Sadi, “Implementation of an Efficient Bangla Soft Keyboard with Text-To-Image Replacement Support,” 15th International Conference on Computer and Information Technology (ICCIT’12), pp.190-195 Chittagong, Bangladesh, December 22-24, 2012."
